@@ -1,5 +1,6 @@
 tab	sites
 site	location	lat	lon	analysts	citations
-SC1	Keweenaw Peninsula	47.3	-88.2		This study
-JK2	Keweenaw Peninsula	47.3	-88.2		This study
-JK3	Keweenaw Peninsula	47.3	-88.2		This study
+SC1	Northern Wisconsin	47.3	-88.2		This study
+JK2	Northern Wisconsin	47.3	-88.2		This study
+JK3	Northern Wisconsin	47.3	-88.2		This study
+NW2	Northern Wisconsin	47.3	-88.2		This study

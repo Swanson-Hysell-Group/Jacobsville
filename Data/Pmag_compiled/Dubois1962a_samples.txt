@@ -1,0 +1,31 @@
+tab	sites												
+site	location	dir_dec	dir_inc	lat	lon	geologic_classes	geologic_types	lithologies	method_codes	result_quality	result_type	dip_trend	dip
+CA1	Keweenaw Peninsula	260.5	-22	47	-88.5								
+J1	Keweenaw Peninsula	219.5	-15.5	47	-88.5								
+J4	Keweenaw Peninsula	239.5	-27.5	47	-88.5								
+J5	Keweenaw Peninsula	219.5	43	47	-88.5								
+J6	Keweenaw Peninsula	245.5	-32	47	-88.5								
+J7	Keweenaw Peninsula	249.5	9	47	-88.5								
+J8	Keweenaw Peninsula	246.5	-18	47	-88.5								
+J9	Keweenaw Peninsula	248.5	-26.5	47	-88.5								
+J10	Keweenaw Peninsula	254	-11.5	47	-88.5								
+J11	Keweenaw Peninsula	263.5	-9.5	47	-88.5								
+J12	Keweenaw Peninsula	272	-23.5	47	-88.5								
+J13	Keweenaw Peninsula	251	27.5	47	-88.5								
+J14	Keweenaw Peninsula	266.5	-10.5	47	-88.5								
+J15	Keweenaw Peninsula	246.5	-17.5	47	-88.5								
+J16	Keweenaw Peninsula	257.5	30.5	47	-88.5								
+LS3B	Sault Ste. Marie	294	-2	47	-84.5								
+LS3P	Sault Ste. Marie	317	-9	47	-84.5								
+LS4B	Sault Ste. Marie	351.5	-58	47	-84.5								
+LS4P	Sault Ste. Marie	325	22	47	-84.5								
+LS5B	Sault Ste. Marie	259.5	-40.5	47	-84.5								
+LS5P	Sault Ste. Marie	286	-35	47	-84.5								
+LS6B	Sault Ste. Marie	279.5	-13.5	47	-84.5								
+LS6P	Sault Ste. Marie	320.5	-64	47	-84.5								
+LS7B	Sault Ste. Marie	281.5	-20	47	-84.5								
+LS7P	Sault Ste. Marie	274	-34.5	47	-84.5								
+LS8B	Sault Ste. Marie	316	-13.5	47	-84.5								
+LS8P	Sault Ste. Marie	278.5	-19	47	-84.5								
+LS9B	Sault Ste. Marie	277	-5	47	-84.5								
+LS9P	Sault Ste. Marie	277	11.5	47	-84.5								
