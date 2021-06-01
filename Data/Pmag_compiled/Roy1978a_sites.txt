@@ -1,37 +1,37 @@
 tab	sites														
-site	location	Area	dir_dec	dir_inc	dir_k	dir_n_samples	dir_n_specimens	dir_n_total_specimens	dir_alpha95	lat	lon	vgp_lon	vgp_lat	grain_size	sample_color
-1	Northern Michigan	A	249	-11	52	5	5	5	11	47.3	-88.2	193	18	unknown	unknown
-2	Northern Michigan	A	238	-5	63	7	7	7	8	47.3	-87.2	204	23	unknown	unknown
-3	Northern Michigan	A	244	-1	59	7	7	7	8	47.3	-86.2	261	18	unknown	unknown
-4	Northern Michigan	A	252	-12	148	5	5	5	6	47.3	-85.2	191	17	unknown	unknown
-5	Northern Michigan	A	269	3	15	6	6	6	21	47.3	-84.2	186	2	unknown	unknown
-6	Northern Michigan	A	269	-5	44	5	5	5	12	47.3	-83.2	181	3	unknown	unknown
-7	Northern Michigan	A	260	-21	116	5	5	5	7	47.3	-82.2	181	15	unknown	unknown
-8	Northern Michigan	A	254	-20	37	4	4	4	15	47.3	-81.2	186	19	unknown	unknown
-9	Northern Michigan	A	263	-18	78	3	3	3	14	47.3	-80.2	180	12	unknown	unknown
-10	Northern Michigan	A	243	-21	8	13	13	13	19	47.3	-79.2	195	26	fine-medium	red
-11	Northern Michigan	A	99	20	11	11	11	11	24	47.3	-78.2	178	1	coarse	brown
-12	Northern Michigan	A	92	24	11	8	8	8	17	47.3	-77.2	171	8	very coarse	red
-13	Northern Michigan	A	255	-2	14	14	14	14	17	47.3	-76.2	193	11	very coarse	brown
+site	location	Area	dir_dec	dir_inc	dir_k	dir_n_samples	dir_n_specimens	dir_n_total_specimens	dir_alpha95	lat	lon	Plon	Plat	grain_size	sample_color
+1	Northern Michigan	A	249	-11	52	5	5	5	11	47.3	-88.2	193	-18	unknown	unknown
+2	Northern Michigan	A	238	-5	63	7	7	7	8	47.3	-87.2	204	-23	unknown	unknown
+3	Northern Michigan	A	244	-1	59	7	7	7	8	47.3	-86.2	261	-18	unknown	unknown
+4	Northern Michigan	A	252	-12	148	5	5	5	6	47.3	-85.2	191	-17	unknown	unknown
+5	Northern Michigan	A	269	3	15	6	6	6	21	47.3	-84.2	186	-2	unknown	unknown
+6	Northern Michigan	A	269	-5	44	5	5	5	12	47.3	-83.2	181	-3	unknown	unknown
+7	Northern Michigan	A	260	-21	116	5	5	5	7	47.3	-82.2	181	-15	unknown	unknown
+8	Northern Michigan	A	254	-20	37	4	4	4	15	47.3	-81.2	186	-19	unknown	unknown
+9	Northern Michigan	A	263	-18	78	3	3	3	14	47.3	-80.2	180	-12	unknown	unknown
+10	Northern Michigan	A	243	-21	8	13	13	13	19	47.3	-79.2	195	-26	fine-medium	red
+11	Northern Michigan	A	99	20	11	11	11	11	24	47.3	-78.2	178	-1	coarse	brown
+12	Northern Michigan	A	92	24	11	8	8	8	17	47.3	-77.2	171	-8	very coarse	red
+13	Northern Michigan	A	255	-2	14	14	14	14	17	47.3	-76.2	193	-11	very coarse	brown
 14	Northern Michigan	A	278	-2		7	7	7		47.3	-75.2			coarse	red
 15	Northern Michigan	A	99	21		6	6	6		47.3	-74.2			medium	red
-16	Northern Michigan	A	270	-1	28	6	6	6	22	47.3	-73.2	180	0	medium	red
-17	Northern Michigan	A	85	19	23	8	8	8	26	47.3	-72.2	179	11	medium	red
-18	Northern Michigan	A	266	-6	81	8	8	8	7	47.3	-71.2	182	5	fine	red
-19	Northern Michigan	A	271	-12	41	7	7	7	9	47.3	-70.2	176	3	fine	red
-20	Northern Michigan	A	287	-10	18	6	6	6	22	47.3	-69.2	165	8	coarse	brown
-21	Northern Michigan	A	90	14	14	6	6	6	26	47.3	-68.2	176	6	coarse	brown
-22	Northern Michigan	A	263	-10	34	12	12	12	16	47.3	-67.2	184	8	coarse	brown
+16	Northern Michigan	A	270	-1	28	6	6	6	22	47.3	-73.2	180		medium	red
+17	Northern Michigan	A	85	19	23	8	8	8	26	47.3	-72.2	179	-11	medium	red
+18	Northern Michigan	A	266	-6	81	8	8	8	7	47.3	-71.2	182	-5	fine	red
+19	Northern Michigan	A	271	-12	41	7	7	7	9	47.3	-70.2	176	-3	fine	red
+20	Northern Michigan	A	287	-10	18	6	6	6	22	47.3	-69.2	165	-8	coarse	brown
+21	Northern Michigan	A	90	14	14	6	6	6	26	47.3	-68.2	176	-6	coarse	brown
+22	Northern Michigan	A	263	-10	34	12	12	12	16	47.3	-67.2	184	-8	coarse	brown
 23	Northern Michigan	A	264	-5		5	5	5		47.3	-66.2			medium	beige
 24	Northern Michigan	A	77	14		6	6	6		47.3	-65.2			medium	beige
 25	Northern Michigan	A	102	11		4	4	4		47.3	-64.2			medium	beige
 26	Northern Michigan	A				11	11	11		47.3	-63.2			medium	brown
 27	Northern Michigan	B	291	-3	12	7	7	7	12	47.3	-62.2	166	13	medium	pink
 28	Northern Michigan	B	272	0	13	7	7	7	13	47.3	-61.2	181	1	medium	pink
-29	Northern Michigan	B	75	10	18	11	11	11	18	47.3	-60.2	190	14	medium	red
-30	Northern Michigan	B	252	2	17	6	6	6	17	47.3	-59.2	197	11	fine	pink
-31	Northern Michigan	B	270	-15	14	6	6	6	14	47.3	-58.2	178	5	fine	pink
-32	Northern Michigan	C	280	-23	16	5	5	5	16	47.3	-57.2	170	2	fine	beige
+29	Northern Michigan	B	75	10	18	11	11	11	18	47.3	-60.2	190	-14	medium	red
+30	Northern Michigan	B	252	2	17	6	6	6	17	47.3	-59.2	197	-11	fine	pink
+31	Northern Michigan	B	270	-15	14	6	6	6	14	47.3	-58.2	178	-5	fine	pink
+32	Northern Michigan	C	280	-23	16	5	5	5	16	47.3	-57.2	170	-2	fine	beige
 33	Northern Michigan	C	289	16	23	3	3	3	23	47.3	-56.2	177	19	fine	grey
 34	Northern Michigan	C	300	10	46	4	4	4	46	47.3	-55.2	166	24	fine	grey
 35	Northern Michigan	C	278	10	9	11	11	11	9	47.3	-54.2	184	3	medium	pink
