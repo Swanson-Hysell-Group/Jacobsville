@@ -51,7 +51,7 @@ analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	citations	dip	
 	79.6	0.0	0.0	90.0	This study	-24.0			67.62		SO-CMD-NORTH	SC1-23	SC1
 	89.6	0.0	0.0	90.0	This study	-28.0			67.67		SO-CMD-NORTH	SC1-24	SC1
 	147.5	0.0	0.0	90.0	This study	-20.0			67.72		SO-CMD-NORTH	SC1-25	SC1
-	149.3	0.0	0.0	90.0	This study	-14.0			667.72		SO-CMD-NORTH	SC1-26	SC1
+	149.3	0.0	0.0	90.0	This study	-14.0			67.72		SO-CMD-NORTH	SC1-26	SC1
 	139.6	0.0	0.0	90.0	This study	-13.0			67.72		SO-CMD-NORTH	SC1-27	SC1
 	87.6	0.0	0.0	90.0	This study	-19.0			68.16		SO-CMD-NORTH	SC1-28	SC1
 	85.1	0.0	0.0	90.0	This study	-18.0			68.34		SO-CMD-NORTH	SC1-29	SC1
@@ -147,6 +147,7 @@ analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	citations	dip	
 	-44.2	0.0	0.0	90.0	This study	-41.0			0.11		SO-CMD-NORTH	NW2-16	NW2
 	-57.2	0.0	0.0	90.0	This study	-41.0			0.11		SO-CMD-NORTH	NW2-17	NW2
 	-51.2	0.0	0.0	90.0	This study	-32.0			0.13		SO-CMD-NORTH	NW2-18	NW2
+	149.3	0.0	0.0	90.0	This study	-14.0			667.72		SO-CMD-NORTH	SC1-26	SC1
 	248.7	0.0	1.0	322.0	This study	-70.0			0.0		SO-CMD-NORTH	AF1-1	AF1
 	250.6	0.0	1.0	322.0	This study	-78.0			0.0		SO-CMD-NORTH	AF1-2	AF1
 	-82.4	0.0	1.0	322.0	This study	-84.0			0.0		SO-CMD-NORTH	AF1-4	AF1

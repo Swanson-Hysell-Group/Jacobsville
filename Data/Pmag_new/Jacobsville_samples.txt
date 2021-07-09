@@ -51,7 +51,7 @@ SC1-22	SC1	55.715					   96.6	    0.0	    0.0	   90.0	  -36.0	This study	SO-CMD-
 SC1-23	SC1	67.62					   79.6	    0.0	    0.0	   90.0	  -24.0	This study	SO-CMD-NORTH
 SC1-24	SC1	67.67					   89.6	    0.0	    0.0	   90.0	  -28.0	This study	SO-CMD-NORTH
 SC1-25	SC1	67.72					  147.5	    0.0	    0.0	   90.0	  -20.0	This study	SO-CMD-NORTH
-SC1-26	SC1	667.72					  149.3	    0.0	    0.0	   90.0	  -14.0	This study	SO-CMD-NORTH
+SC1-26	SC1	67.72					  149.3	    0.0	    0.0	   90.0	  -14.0	This study	SO-CMD-NORTH
 SC1-27	SC1	67.72					  139.6	    0.0	    0.0	   90.0	  -13.0	This study	SO-CMD-NORTH
 SC1-28	SC1	68.16					   87.6	    0.0	    0.0	   90.0	  -19.0	This study	SO-CMD-NORTH
 SC1-29	SC1	68.34					   85.1	    0.0	    0.0	   90.0	  -18.0	This study	SO-CMD-NORTH

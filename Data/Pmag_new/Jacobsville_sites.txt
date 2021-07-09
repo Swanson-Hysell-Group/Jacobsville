@@ -1,8 +1,8 @@
 tab	sites
 site	location	lat	lon	analysts	citations
-AF1	Keweenaw Peninsula	47.3	-88.2		This study
-SC1	Keweenaw Peninsula	47.3	-88.2		This study
-JK2	Keweenaw Peninsula	47.3	-88.2		This study
-JK3	Keweenaw Peninsula	47.3	-88.2		This study
-NW1	Keweenaw Peninsula	47.3	-88.2		This study
-NW2	Keweenaw Peninsula	47.3	-88.2		This study
+AF1	Northern Michigan	47.3	-88.2		This study
+SC1	Northern Michigan	47.3	-88.2		This study
+JK2	Northern Michigan	47.3	-88.2		This study
+JK3	Northern Michigan	47.3	-88.2		This study
+NW1	Northern Michigan	47.3	-88.2		This study
+NW2	Northern Michigan	47.3	-88.2		This study
