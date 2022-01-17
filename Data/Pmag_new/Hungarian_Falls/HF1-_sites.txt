@@ -1,0 +1,3 @@
+tab	sites
+site	location	lat	lon	analysts	citations
+HF1	Keweenaw Peninsula	47.2	-88.4		This study
