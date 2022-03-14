@@ -1,0 +1,17 @@
+,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,HF7-,,,,,,,,,,,,,,,,,,,,,
+site_name,Hungarian Falls 7,,,,,,,,,,,,,,,,,,,,,
+site_lat,47.16919,(ºN),,,,,,,,,,,,,,,,,,,,
+site_long,-88.44072,(ºE),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,0,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+1,mag compass orientation (IGRF corrected),9.14,293,77.0,232.0,11.0,no,nan,-4.0,2021.0,7.0,15.0,18.0,46.0,1.0,nan,nan,[355.8024470161869; 72.71066871538645; 55596.351945364215],-4.197552983813125,insufficient data,288.8,nan
+2,mag compass orientation (IGRF corrected),9.15,310,35.0,232.0,11.0,no,nan,-4.0,2021.0,7.0,15.0,18.0,49.0,1.0,nan,nan,[355.80244698073085; 72.71066825809787; 55596.35139988614],-4.197553019269151,insufficient data,305.8,nan
+3,mag compass orientation (IGRF corrected),9.18,309,49.0,232.0,11.0,no,nan,-4.0,2021.0,7.0,15.0,18.0,52.0,1.0,nan,nan,[355.8024469452749; 72.71066780080929; 55596.35085440807],-4.19755305472512,insufficient data,304.8,nan
+4,mag compass orientation (IGRF corrected),9.26,327,83.0,232.0,11.0,no,nan,-4.0,2021.0,7.0,15.0,18.0,59.0,1.0,nan,nan,[355.80244686254423; 72.71066673380255; 55596.34958162597],-4.19755313745577,insufficient data,322.8,nan
+5,mag compass orientation (IGRF corrected),9.58,325,79.0,232.0,11.0,no,nan,-4.0,2021.0,7.0,15.0,19.0,2.0,1.0,nan,nan,[355.8024468270882; 72.71066627651395; 55596.34903614791],-4.197553172911796,insufficient data,320.8,nan
+6,mag compass orientation (IGRF corrected),9.6,336,84.0,232.0,11.0,no,nan,-4.0,2021.0,7.0,15.0,19.0,8.0,1.0,nan,nan,[355.8024467561762; 72.71066536193665; 55596.3479451918],-4.197553243823791,insufficient data,331.8,nan
+7,mag compass orientation (IGRF corrected),9.61,337,86.0,232.0,11.0,no,nan,-4.0,2021.0,7.0,15.0,19.0,11.0,1.0,nan,nan,[355.80244672072024; 72.71066490464804; 55596.34739971379],-4.197553279279759,insufficient data,332.8,nan
+8,mag compass orientation (IGRF corrected),9.62,338,86.0,232.0,11.0,no,nan,-4.0,2021.0,7.0,15.0,19.0,16.0,1.0,nan,nan,[355.8024466616269; 72.71066414250028; 55596.346490583725],-4.197553338373098,insufficient data,333.8,nan
+9,mag compass orientation (IGRF corrected),9.62,332,86.0,232.0,11.0,no,nan,-4.0,2021.0,7.0,15.0,19.0,22.0,1.0,nan,nan,[355.8024465907149; 72.71066322792295; 55596.345399627666],-4.197553409285092,insufficient data,327.8,nan
+10,mag compass orientation (IGRF corrected),9.68,331,83.0,232.0,11.0,no,nan,-4.0,2021.0,7.0,15.0,19.0,28.0,1.0,nan,nan,[355.80244651980297; 72.71066231334551; 55596.344308671585],-4.19755348019703,insufficient data,326.8,nan

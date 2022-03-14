@@ -1,3 +1,0 @@
-tab	locations
-location	lat_n	lat_s	lon_e	lon_w	analysts	citations
-Keweenaw Peninsula	47.2	47.2	-88.4	-88.4		This study

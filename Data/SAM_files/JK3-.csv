@@ -1,0 +1,15 @@
+,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,JK3-,,,,,,,,,,,,,,,,,,,,,
+site_name,Hammell Creek 3,,,,,,,,,,,,,,,,,,,,,
+site_lat,47.203176,(ºN),,,,,,,,,,,,,,,,,,,,
+site_long,-88.411931,(ºE),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,217.70425,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+1a,mag compass orientation (IGRF corrected),31.2,294,62.0,198.0,17.0,no,nan,-4.0,2020.0,8.0,1.0,14.0,21.0,1.0,nan,nan,[355.77784981117355; 72.8095364255878; 55692.47182104763],-4.222150188826447,insufficient data,289.8,nan
+2a,mag compass orientation (IGRF corrected),31.2,293,69.0,198.0,17.0,no,nan,-4.0,2020.0,8.0,1.0,14.0,38.0,1.0,nan,nan,[355.7778496261436; 72.80953384913099; 55692.46873863666],-4.22215037385638,insufficient data,288.8,nan
+3a,mag compass orientation (IGRF corrected),31.2,299,72.0,198.0,17.0,no,nan,-4.0,2020.0,8.0,1.0,14.0,49.0,1.0,nan,nan,[355.7778495064184; 72.80953218201171; 55692.46674413546],-4.22215049358158,insufficient data,294.8,nan
+4a,mag compass orientation (IGRF corrected),31.2,297,64.0,198.0,17.0,no,nan,-4.0,2020.0,8.0,1.0,15.0,11.0,1.0,nan,nan,[355.77784926696796; 72.80952884777281; 55692.46275513327],-4.222150733032038,insufficient data,292.8,nan
+5a,mag compass orientation (IGRF corrected),31.2,295,64.0,198.0,17.0,no,nan,-4.0,2020.0,8.0,1.0,15.0,24.0,1.0,nan,nan,[355.7778491254746; 72.80952687754049; 55692.46039799567],-4.2221508745254255,insufficient data,290.8,nan
+6a,mag compass orientation (IGRF corrected),31.2,190,9.0,175.0,11.0,no,nan,-4.0,2020.0,8.0,1.0,15.0,54.0,1.0,nan,nan,[355.7778487989514; 72.80952233084992; 55692.45495844769],-4.222151201048575,insufficient data,185.8,nan
+7a,mag compass orientation (IGRF corrected),31.2,192,4.0,175.0,11.0,no,nan,-4.0,2020.0,8.0,1.0,16.0,2.0,1.0,nan,nan,[355.77784871187856; 72.80952111839898; 55692.45350790166],-4.222151288121438,insufficient data,187.8,nan
+8a,mag compass orientation (IGRF corrected),31.2,220,6.0,202.0,10.0,no,nan,-4.0,2020.0,8.0,1.0,16.0,18.0,1.0,nan,nan,[355.77784853773295; 72.80951869349683; 55692.45060680953],-4.22215146226705,insufficient data,215.8,nan
