@@ -1,6 +1,7 @@
 site,site name,latitude,longitude
 AF1,Agate Falls 1,46.48098,-89.09036
 AF2,Agate Falls 2,46.48116,-89.09022
+AFC,Agate Falls rip-up site,46.48116,-89.09022
 SC1,Baby Snake Creek,47.34248,-88.17128
 NW1,Natural Wall,47.24099,-88.39637
 NW2,Natural Wall,47.24099,-88.39637
@@ -13,4 +14,4 @@ HF4,Hungarian Falls 4,47.17019,-88.44321
 HF5,Hungarian Falls 5,47.17019,-88.44321
 HF6,Hungarian Falls 6,47.16961,-88.44215
 HF7,Hungarian Falls 7,47.16919,-88.44072
-HFC,Hungarian Falls conglomerate test,47.17071,-88.4465
+HFC,Hungarian Falls rip-up site,47.17071,-88.4465
