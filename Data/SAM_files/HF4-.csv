@@ -1,0 +1,14 @@
+,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,HF4-,,,,,,,,,,,,,,,,,,,,,
+site_name,Hungarian Falls 4,,,,,,,,,,,,,,,,,,,,,
+site_lat,47.17019,(ºN),,,,,,,,,,,,,,,,,,,,
+site_long,-88.44321,(ºE),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,0,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+1,mag compass orientation (IGRF corrected),44.33,75,52.0,234.0,8.0,no,nan,-4.0,2021.0,7.0,15.0,17.0,18.0,1.0,nan,nan,[355.80436210834785; 72.71148662515257; 55596.8273876405],-4.195637891652154,insufficient data,70.8,nan
+2,mag compass orientation (IGRF corrected),44.3,136,61.0,234.0,8.0,no,nan,-4.0,2021.0,7.0,15.0,17.0,23.0,1.0,nan,nan,[355.80436204914366; 72.71148586304457; 55596.82647851227],-4.195637950856337,insufficient data,131.8,nan
+3,mag compass orientation (IGRF corrected),44.25,38,55.0,234.0,8.0,no,nan,-4.0,2021.0,7.0,15.0,17.0,30.0,1.0,nan,nan,[355.8043619662578; 72.71148479609339; 55596.82520573281],-4.195638033742227,insufficient data,33.8,nan
+4,mag compass orientation (IGRF corrected),44.22,132,11.0,234.0,8.0,no,nan,-4.0,2021.0,7.0,15.0,17.0,35.0,1.0,nan,nan,[355.8043619070536; 72.71148403398533; 55596.824296604645],-4.19563809294641,insufficient data,127.8,nan
+5,mag compass orientation (IGRF corrected),44.2,112,13.0,234.0,8.0,no,nan,-4.0,2021.0,7.0,15.0,17.0,40.0,1.0,nan,nan,[355.80436184784935; 72.71148327187728; 55596.823387476456],-4.19563815215065,insufficient data,107.8,nan
+6,mag compass orientation (IGRF corrected),44.07,136,33.0,234.0,8.0,no,nan,-4.0,2021.0,7.0,15.0,17.0,51.0,1.0,nan,nan,[355.80436171760016; 72.7114815952394; 55596.82138739449],-4.195638282399841,insufficient data,131.8,nan
+7,mag compass orientation (IGRF corrected),44.06,145,36.0,234.0,8.0,no,nan,-4.0,2021.0,7.0,15.0,17.0,56.0,1.0,nan,nan,[355.804361658396; 72.71148083313129; 55596.82047826632],-4.195638341604024,insufficient data,140.8,nan
