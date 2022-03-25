@@ -1,0 +1,16 @@
+,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,BJJ-,,,,,,,,,,,,,,,,,,,,,
+site_name,Black Jack Jacobsville,,,,,,,,,,,,,,,,,,,,,
+site_lat,46.50505269,(ºN),,,,,,,,,,,,,,,,,,,,
+site_long,-89.99571261,(ºE),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,0,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+1a,mag compass orientation (IGRF corrected),0.42,166,84.0,264.1,31.2,no,nan,-5.0,2021.0,7.0,10.0,17.0,15.0,1.0,nan,nan,[357.2154399242548; 72.28671527982041; 55397.67215683142],-2.784560075745219,insufficient data,163.2,nan
+2a,mag compass orientation (IGRF corrected),0.44,174,80.0,264.1,31.2,no,nan,-5.0,2021.0,7.0,10.0,17.0,28.0,1.0,nan,nan,[357.21543934523106; 72.28671335039876; 55397.66973069716],-2.7845606547689385,insufficient data,171.2,nan
+3a,mag compass orientation (IGRF corrected),0.44,172,85.0,264.1,31.2,no,nan,-5.0,2021.0,7.0,10.0,17.0,32.0,1.0,nan,nan,[357.2154391670699; 72.28671275673057; 55397.668984194366],-2.784560832930083,insufficient data,169.2,nan
+4a,mag compass orientation (IGRF corrected),0.48,167,90.0,264.1,31.2,no,nan,-5.0,2021.0,7.0,10.0,17.0,36.0,1.0,nan,nan,[357.21543898890883; 72.28671216306229; 55397.66823769156],-2.7845610110911707,insufficient data,164.2,nan
+5a,mag compass orientation (IGRF corrected),0.5,166,86.0,264.1,31.2,no,nan,-5.0,2021.0,7.0,10.0,17.0,42.0,1.0,nan,nan,[357.21543872166717; 72.28671127255993; 55397.667117937344],-2.7845612783328306,insufficient data,163.2,nan
+6a,sun compass orientation,0.52,167,95.0,264.1,31.2,no,70.0,-5.0,2021.0,7.0,10.0,17.0,46.0,1.0,nan,158.1,[357.2154385435061; 72.28671067889162; 55397.66637143454],-2.7845614564939183,-8.900000000000006,158.1,nan
+7a,mag compass orientation (IGRF corrected),0.55,165,96.0,264.1,31.2,no,nan,-5.0,2021.0,7.0,10.0,17.0,52.0,1.0,nan,nan,[357.2154382762644; 72.28670978838919; 55397.66525168034],-2.784561723735578,insufficient data,162.2,nan
+8a,sun compass orientation,0.52,169,84.0,264.1,31.2,no,73.0,-5.0,2021.0,7.0,10.0,17.0,56.0,1.0,nan,159.3,[357.21543809810333; 72.28670919472086; 55397.66450517757],-2.784561901896666,-9.699999999999989,159.3,nan
+9a,sun compass orientation,0.63,173,97.0,264.1,31.2,no,74.0,-5.0,2021.0,7.0,10.0,18.0,1.0,1.0,nan,159.4,[357.215437875402; 72.28670845263542; 55397.663572049074],-2.784562124597983,-13.599999999999994,159.4,nan
