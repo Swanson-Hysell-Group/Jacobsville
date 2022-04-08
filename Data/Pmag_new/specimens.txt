@@ -467,11 +467,11 @@ HF1-101	HF1-101_LP-DIR-T	HF1-101		hdt	332.5	-58.5	2	11	0	5.8	15.7	964	923	K		har
 HF1-101	HF1-101_LP-DIR-T	HF1-101		hdt	342.1	-64.7	2	11	100	5.8	15.7	964	923	K		hargrave 2021-12-30 10:51:42	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Keweenaw Peninsula	HF1
 HF1-101	HF1-101_LP-DIR-T	HF1-101		hdt	34.9	-25.4	2	11	-1	5.8	15.7	964	923	K		hargrave 2021-12-30 10:51:42	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Keweenaw Peninsula	HF1
 HF1-102	HF1-102_LP-DIR-T	HF1-102		hct	80.7	-49.9	2	10	100	14.0	11.9	923	773	K		hargrave 2021-12-30 10:53:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Keweenaw Peninsula	HF1
-HF1-102	HF1-102_LP-DIR-T	HF1-102		hdt	45.6	-56.2	2	6	100	0.0	5.4	958	943	K		hargrave 2021-12-30 10:53:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Keweenaw Peninsula	HF1
+HF1-102	HF1-102_LP-DIR-T	HF1-102		hdt	55.3	-53.8	2	6	100	6.0	8.3	958	943	K		hargrave 2021-12-30 10:53:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Keweenaw Peninsula	HF1
 HF1-102	HF1-102_LP-DIR-T	HF1-102		hct	73.9	-56.1	2	10	0	14.0	11.9	923	773	K		hargrave 2021-12-30 10:53:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Keweenaw Peninsula	HF1
-HF1-102	HF1-102_LP-DIR-T	HF1-102		hdt	33.5	-57.9	2	6	0	0.0	5.4	958	943	K		hargrave 2021-12-30 10:53:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Keweenaw Peninsula	HF1
+HF1-102	HF1-102_LP-DIR-T	HF1-102		hdt	44.6	-57.0	2	6	0	6.0	8.3	958	943	K		hargrave 2021-12-30 10:53:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Keweenaw Peninsula	HF1
 HF1-102	HF1-102_LP-DIR-T	HF1-102		hct	344.9	-71.0	2	10	-1	14.0	11.9	923	773	K		hargrave 2021-12-30 10:53:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Keweenaw Peninsula	HF1
-HF1-102	HF1-102_LP-DIR-T	HF1-102		hdt	35.6	-61.4	2	6	-1	0.0	5.4	958	943	K		hargrave 2021-12-30 10:53:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Keweenaw Peninsula	HF1
+HF1-102	HF1-102_LP-DIR-T	HF1-102		hdt	29.0	-66.7	2	6	-1	6.0	8.3	958	943	K		hargrave 2021-12-30 10:53:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Keweenaw Peninsula	HF1
 HF1-102		HF1-102																	This study	LP-NOMAG				Keweenaw Peninsula	HF1
 HF1-103	HF1-103_LP-DIR-T	HF1-103		hdt	154.5	-47.3	2	6	-1	0.0	6.6	958	943	K		hargrave 2021-12-30 10:54:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Keweenaw Peninsula	HF1
 HF1-103	HF1-103_LP-DIR-T	HF1-103		hct	65.2	6.0	2	12	100	20.5	20.5	928	723	K		hargrave 2021-12-30 10:54:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Keweenaw Peninsula	HF1
@@ -1252,9 +1252,9 @@ HF3-8	HF3-8_LP-DIR-T	HF3-8		hdt	249.6	-5.7	1	7	0	15.6	8.5	952	937	K		hargrave 20
 HF3-8		HF3-8																	This study	LP-NOMAG				Keweenaw Peninsula	HF3
 HF3-8	HF3-8_LP-DIR-T	HF3-8		hdt	23.6	62.2	1	7	-1	15.6	8.5	952	937	K		hargrave 2022-02-24 18:53:30	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Keweenaw Peninsula	HF3
 HF3-8	HF3-8_LP-DIR-T	HF3-8		hdt	248.7	-14.4	1	7	100	15.6	8.5	952	937	K		hargrave 2022-02-24 18:53:30	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Keweenaw Peninsula	HF3
-HF3-9	HF3-9_LP-DIR-T	HF3-9		hdt	47.4	57.0	1	7	-1	0.0	5.4	950	933	K		hargrave 2022-02-24 18:54:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Keweenaw Peninsula	HF3
-HF3-9	HF3-9_LP-DIR-T	HF3-9		hdt	251.4	1.2	1	7	0	0.0	5.4	950	933	K		hargrave 2022-02-24 18:54:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Keweenaw Peninsula	HF3
-HF3-9	HF3-9_LP-DIR-T	HF3-9		hdt	251.2	-7.8	1	7	100	0.0	5.4	950	933	K		hargrave 2022-02-24 18:54:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Keweenaw Peninsula	HF3
+HF3-9	HF3-9_LP-DIR-T	HF3-9		hdt	49.5	52.0	1	7	-1	4.7	7.8	948	928	K		hargrave 2022-02-24 18:54:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Keweenaw Peninsula	HF3
+HF3-9	HF3-9_LP-DIR-T	HF3-9		hdt	255.7	-1.7	1	7	0	4.7	7.8	948	928	K		hargrave 2022-02-24 18:54:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Keweenaw Peninsula	HF3
+HF3-9	HF3-9_LP-DIR-T	HF3-9		hdt	255.3	-10.9	1	7	100	4.7	7.8	948	928	K		hargrave 2022-02-24 18:54:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Keweenaw Peninsula	HF3
 HF3-9		HF3-9																	This study	LP-NOMAG				Keweenaw Peninsula	HF3
 HF4-1	HF4-1_LP-DIR-T	HF4-1		hdt	81.1	-4.8	2	7	-1	12.0	8.5	952	937	K		hargrave 2022-02-24 18:56:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Keweenaw Peninsula	HF4
 HF4-1	HF4-1_LP-DIR-T	HF4-1		hct	104.3	5.3	2	12	-1	13.8	8.4	923	673	K		hargrave 2022-02-24 18:56:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Keweenaw Peninsula	HF4
@@ -1915,7 +1915,7 @@ SC1-21a	SC1-21a_LP-DIR-T	SC1-21a		lt	243.0	53.3	2	3	-1	123.4	0.5	473	273	K		harg
 SC1-21a	SC1-21a_LP-DIR-T	SC1-21a		hdt	267.0	-17.8	2	10	100	0.0	9.4	953	923	K		hargrave 2021-03-23 12:53:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Keweenaw Peninsula	SC1
 SC1-22a	SC1-22a_LP-DIR-T	SC1-22a		hct	90.5	26.0	2	5	100	142.6	5.3	723	373	K		hargrave 2021-03-23 12:54:47	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Keweenaw Peninsula	SC1
 SC1-22a	SC1-22a_LP-DIR-T	SC1-22a		hdt	289.3	-36.2	2	15	100	0.0	4.9	953	873	K		hargrave 2021-03-23 12:54:47	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Keweenaw Peninsula	SC1
-SC1-22a	SC1-22a_LP-DIR-T	SC1-22a		hdt	205.5	-43.9	2	8	0	0.0	5.7	953	937	K		hargrave 2021-03-23 12:54:47	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Keweenaw Peninsula	SC1
+SC1-22a	SC1-22a_LP-DIR-T	SC1-22a		hdt	203.0	-41.2	2	15	0	0.0	4.9	953	873	K		hargrave 2021-03-23 12:54:47	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Keweenaw Peninsula	SC1
 SC1-22a	SC1-22a_LP-DIR-T	SC1-22a		hct	39.3	27.7	2	5	0	142.6	5.3	723	373	K		hargrave 2021-03-23 12:54:47	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Keweenaw Peninsula	SC1
 SC1-22a	SC1-22a_LP-DIR-T	SC1-22a		hdt	73.4	-41.2	2	15	-1	0.0	4.9	953	873	K		hargrave 2021-03-23 12:54:47	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Keweenaw Peninsula	SC1
 SC1-22a		SC1-22a																	This study	LP-NOMAG				Keweenaw Peninsula	SC1
@@ -1954,7 +1954,7 @@ SC1-27a		SC1-27a																	This study	LP-NOMAG				Keweenaw Peninsula	SC1
 SC1-27a	SC1-27a_LP-DIR-T	SC1-27a		lt	222.1	48.2	2	3	-1	116.9	3.6	473	273	K		hargrave 2021-03-23 13:00:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Keweenaw Peninsula	SC1
 SC1-28a	SC1-28a_LP-DIR-T	SC1-28a		lt	331.9	32.0	2	3	0	106.4	3.9	573	373	K		hargrave 2021-03-23 13:02:23	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Keweenaw Peninsula	SC1
 SC1-28a	SC1-28a_LP-DIR-T	SC1-28a		hdt	260.3	-21.3	2	14	100	0.0	3.7	955	893	K		hargrave 2021-03-23 13:02:23	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Keweenaw Peninsula	SC1
-SC1-28a	SC1-28a_LP-DIR-T	SC1-28a		hdt	224.9	-18.7	2	9	0	0.0	5.7	955	937	K		hargrave 2021-03-23 13:02:23	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Keweenaw Peninsula	SC1
+SC1-28a	SC1-28a_LP-DIR-T	SC1-28a		hdt	224.5	-18.3	2	14	0	0.0	3.7	955	893	K		hargrave 2021-03-23 13:02:23	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Keweenaw Peninsula	SC1
 SC1-28a		SC1-28a																	This study	LP-NOMAG				Keweenaw Peninsula	SC1
 SC1-28a	SC1-28a_LP-DIR-T	SC1-28a		hdt	130.5	-31.5	2	14	-1	0.0	3.7	955	893	K		hargrave 2021-03-23 13:02:23	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Keweenaw Peninsula	SC1
 SC1-28a	SC1-28a_LP-DIR-T	SC1-28a		lt	235.9	22.4	2	3	-1	106.4	3.9	573	373	K		hargrave 2021-03-23 13:02:23	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Keweenaw Peninsula	SC1
@@ -1972,7 +1972,7 @@ SC1-2a	SC1-2a_LP-DIR-T	SC1-2a		hct	119.1	39.1	2	5	0	105.4	4.4	773	473	K		hargrav
 SC1-2a		SC1-2a																	This study	LP-NOMAG				Keweenaw Peninsula	SC1
 SC1-30a	SC1-30a_LP-DIR-T	SC1-30a		hdt	236.5	-28.2	2	16	100	20.4	23.5	953	863	K		hargrave 2021-03-23 13:03:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Keweenaw Peninsula	SC1
 SC1-30a	SC1-30a_LP-DIR-T	SC1-30a		lt	128.4	41.8	2	6	100	100.3	10.7	723	273	K		hargrave 2021-03-23 13:03:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Keweenaw Peninsula	SC1
-SC1-30a	SC1-30a_LP-DIR-T	SC1-30a		hdt	242.2	13.7	2	10	0	0.0	14.0	953	923	K		hargrave 2021-03-23 13:03:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Keweenaw Peninsula	SC1
+SC1-30a	SC1-30a_LP-DIR-T	SC1-30a		hdt	214.9	2.3	2	16	0	20.4	23.5	953	863	K		hargrave 2021-03-23 13:03:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Keweenaw Peninsula	SC1
 SC1-30a	SC1-30a_LP-DIR-T	SC1-30a		lt	4.2	50.2	2	6	0	100.3	10.7	723	273	K		hargrave 2021-03-23 13:03:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Keweenaw Peninsula	SC1
 SC1-30a	SC1-30a_LP-DIR-T	SC1-30a		lt	231.8	40.2	2	6	-1	100.3	10.7	723	273	K		hargrave 2021-03-23 13:03:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Keweenaw Peninsula	SC1
 SC1-30a	SC1-30a_LP-DIR-T	SC1-30a		hdt	100.5	-1.4	2	16	-1	20.4	23.5	953	863	K		hargrave 2021-03-23 13:03:55	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Keweenaw Peninsula	SC1
@@ -2139,7 +2139,7 @@ SC1-56a	SC1-56a_LP-DIR-T	SC1-56a		hdt	191.0	-53.2	1	11	-1	0.0	4.1	956	933	K		har
 SC1-56a		SC1-56a																	This study	LP-NOMAG				Keweenaw Peninsula	SC1
 SC1-57a	SC1-57a_LP-DIR-T	SC1-57a		hct	168.9	15.6	2	7	-1	98.0	8.7	773	273	K		hargrave 2021-06-27 13:44:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Keweenaw Peninsula	SC1
 SC1-57a	SC1-57a_LP-DIR-T	SC1-57a		hdt	315.2	36.9	2	14	-1	10.6	13.7	957	913	K		hargrave 2021-06-27 13:44:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Keweenaw Peninsula	SC1
-SC1-57a	SC1-57a_LP-DIR-T	SC1-57a		hdt	255.5	16.0	2	8	0	0.0	8.8	957	940	K		hargrave 2021-06-27 13:44:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Keweenaw Peninsula	SC1
+SC1-57a	SC1-57a_LP-DIR-T	SC1-57a		hdt	237.1	13.7	2	14	0	10.6	13.7	957	913	K		hargrave 2021-06-27 13:44:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Keweenaw Peninsula	SC1
 SC1-57a	SC1-57a_LP-DIR-T	SC1-57a		hct	118.8	-4.4	2	7	100	98.0	8.7	773	273	K		hargrave 2021-06-27 13:44:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Keweenaw Peninsula	SC1
 SC1-57a	SC1-57a_LP-DIR-T	SC1-57a		hdt	240.6	-17.1	2	14	100	10.6	13.7	957	913	K		hargrave 2021-06-27 13:44:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Keweenaw Peninsula	SC1
 SC1-57a		SC1-57a																	This study	LP-NOMAG				Keweenaw Peninsula	SC1
