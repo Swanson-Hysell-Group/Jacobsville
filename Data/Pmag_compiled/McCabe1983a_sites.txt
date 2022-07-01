@@ -1,0 +1,12 @@
+tab	sites														
+site	location	Area	dir_dec	dir_inc	dir_k	dir_n_samples	dir_n_specimens	dir_n_total_specimens	dir_alpha95	lat	lon	Plon	Plat	grain_size	sample_color
+1	Bayfield	Bayfield	77.6	30.8	29.7	10	10	10	9			176.4	-20.4		
+2	Bayfield	Bayfield	89.2	27.7	29.7	5	5	5	14.3			169.5	-11.2		
+3	Bayfield	Bayfield	81.8	18.3	22.7	9	9	9	11			178.7	-12.5		
+4	Bayfield	Bayfield	80.5	15.7	14.6	6	6	6	18.2			180.7	-12.3		
+6	Bayfield	Bayfield	87.5	15.6	21.7	8	8	8	12.2			175.8	-7.5		
+7	Bayfield	Bayfield	77	18.1	10.2	6	6	6	22			182.5	-15.6		
+8	Bayfield	Bayfield	96.5	11.8	14.7	7	7	7	16.3			170.6	-0.1		
+9	Bayfield	Bayfield	74.6	19.3	24.7	4	4	4	18.8			183.8	-17.8		
+10	Bayfield	Bayfield	75.9	13	10	7	7	7	20			184.9	-14.4		
+11	Bayfield	Bayfield	85.2	21	17.9	9	9	9	12.5			175	-11.2		
