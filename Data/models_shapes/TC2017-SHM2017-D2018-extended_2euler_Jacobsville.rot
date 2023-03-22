@@ -140,7 +140,7 @@
 101 720.0  -47.05   -2.16  156.4  001 ! PSHM modification - Reconstruction from Franklin LIP pole
 101 750.0  -45.6914   -6.5683  157.5503  001 ! PSHM modification - Reconstruction from Uinta Mtn/Galeros pole
 101 775.0  -47.0588  -12.521  146.0521  001 ! PSHM modification - Reconstruction from Gunbarrel pole
-101 990.0  -36.5137   -2.3623  186.0591  001 ! Jacobsville Formation pole
+101 990.0  -36.4117   -2.2806  186.7529  001 ! Reconstruction from Jacobsville pole 
 101 1075.0  -47.9585  -11.6735  180.1947  001 ! 2 euler inversion reconstructed 1075 Ma pole
 101 1080.0  -51.4398   -9.5324  180.5346  001 ! 2 euler inversion reconstructed 1075 Ma pole
 101 1090.0  -58.2513   -4.087  181.206  001 ! 2 euler inversion reconstructed 1075 Ma pole
