@@ -30,4 +30,4 @@ Gunbarrel mean,9.1,138.2,11.7,"Eyster et al., 2019",774.93,774.39,775.47,,,,,,
 Compilation of Kent mean paleomagnetic poles,,,,,,,,,,,,,
 Pole,Pole lat,Pole lon,Major axis lat,Major axis lon,Major axis magnitude,Minor axis lat,Minor axis lon,Minor axis magnitude,Pole reference,AgeNominal,AgeLower,AgeUpper,Age reference
 Nonesuch Formation,6.6,182.9,27.6,280.2,2.8,41.6,87,2,"Slotznick et al., 2023",1080,1070,1083.5,"As discussed in Swanson-Hysell et al., 2019"
-Jacobsville Formation,16.8,182.7,45.7,254.7,4,39.5,107.2,2.9,this study,990,985,1020,"Hodgin et al., 2022; as discussed in the manuscript"
+Jacobsville Formation,-16.8,182.7,45.7,254.7,4,39.5,107.2,2.9,this study,990,985,1020,"Hodgin et al., 2022; as discussed in the manuscript"
