@@ -2,7 +2,7 @@
 
 This repository contains data and code associated with the following study:
 
-> Zhang, Y., Hodgin, E.B., Alemu, T., Pierce, J., Feuntes, A., and Swanson-Hysell, N.L., Tracking Rodinia into the Neoproterozoic: new paleomagnetic constraints from the Jacobsville Formation, *Tectonics*. doi: 10.1029/2023TC007866
+> Zhang, Y., Hodgin, E.B., Alemu, T., Pierce, J., Feuntes, A., and Swanson-Hysell, N.L., (2024) Tracking Rodinia into the Neoproterozoic: new paleomagnetic constraints from the Jacobsville Formation, *Tectonics*. doi: [10.1029/2023TC007866](https://doi.org/10.1029/2023TC007866)
 
 ## Code
 
